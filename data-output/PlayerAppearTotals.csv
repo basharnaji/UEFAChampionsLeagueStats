@@ -1,283 +1,271 @@
 ,Player,Appearances
-0,Iker Casillas,177
-1,Cristiano Ronaldo,176
-2,Xavi Hernández,151
-3,Lionel Messi,149
+0,Cristiano Ronaldo,181
+1,Iker Casillas,177
+2,Lionel Messi,154
+3,Xavi Hernández,151
 4,Raúl González,142
 5,Ryan Giggs,141
-6,Karim Benzema,(10)
+6,Karim Benzema,135
 7,Andrés Iniesta,130
-8,Sergio Ramos,129
-9,Clarence Seedorf,125
-10,Gianluigi Buffon,124
-11,Thomas Müller,124
-12,Paul Scholes,124
-13,Roberto Carlos,120
-14,Xabi Alonso,119
-15,Sergio Busquets,119
-16,Zlatan Ibrahimović,119
-17,Manuel Neuer,119
-18,Gerard Piqué,119
-19,Toni Kroos,(12)
+8,Thomas Müller,130
+9,Sergio Ramos,129
+10,Sergio Busquets,125
+11,Manuel Neuer,125
+12,Clarence Seedorf,125
+13,Gianluigi Buffon,124
+14,Zlatan Ibrahimović,124
+15,Gerard Piqué,124
+16,Paul Scholes,124
+17,Roberto Carlos,120
+18,Toni Kroos,120
+19,Xabi Alonso,119
 20,Carles Puyol,115
 21,Thierry Henry,112
 22,Philipp Lahm,112
 23,Dani Alves,111
 24,Petr Čech,111
 25,Arjen Robben,110
-26,Paolo Maldini,109
-27,Gary Neville,109
-28,John Terry,109
-29,Ashley Cole,108
-30,Patrice Evra,108
-31,Andrea Pirlo,108
-32,David Beckham,107
-33,Víctor Valdés,106
-34,Frank Lampard,105
-35,Pepe,104
+26,Pepe,109
+27,Paolo Maldini,109
+28,Gary Neville,109
+29,John Terry,109
+30,Ashley Cole,108
+31,Patrice Evra,108
+32,Andrea Pirlo,108
+33,David Beckham,107
+34,Víctor Valdés,106
+35,Frank Lampard,105
 36,Cesc Fàbregas,104
 37,Oliver Kahn,103
 38,Luís Figo,103
-39,Andriy Shevchenko,100
-40,Alessandro Nesta,99
-41,Marcelo,99
-42,Edwin van der Sar,98
-43,Guti,97
-44,Javier Zanetti,97
-45,Robert Lewandowski,96
-46,Claude Makelele,96
-47,Javier Mascherano,96
-48,Fernandinho,95
-49,Bastian Schweinsteiger,95
-50,Ángel Di María,(10)
-51,Luka Modrić,(12)
-52,Maxwell,94
-53,Michael Ballack,93
-54,Rio Ferdinand,93
-55,Fernando Morientes,93
-56,Didier Drogba,92
-57,David Alaba,91
-58,Alessandro Del Piero,88
-59,Thiago Silva,88
+39,Robert Lewandowski,102
+40,Marcelo,101
+41,Luka Modrić,100
+42,Andriy Shevchenko,100
+43,Alessandro Nesta,99
+44,Fernandinho,98
+45,Edwin van der Sar,98
+46,David Alaba,97
+47,Ángel Di María,97
+48,Guti,97
+49,Javier Zanetti,97
+50,Claude Makelele,96
+51,Javier Mascherano,96
+52,Bastian Schweinsteiger,95
+53,Maxwell,94
+54,Michael Ballack,93
+55,Thiago Silva,93
+56,Rio Ferdinand,93
+57,Fernando Morientes,93
+58,Didier Drogba,92
+59,Alessandro Del Piero,88
 60,Hasan Salihamidžić,88
 61,Iván Helguera,87
 62,Franck Ribéry,87
 63,Dejan Stanković,87
 64,Ricardo Carvalho,86
 65,Kaká,86
-66,Jérôme Boateng,85
-67,Wayne Rooney,85
-68,Lúcio,83
-69,Gonzalo Higuaín,83
-70,Florent Malouda,83
-71,Raphaël Varane,83
-72,Massimo Ambrosini,82
-73,Thiago Motta,82
-74,Robert Pirès,82
-75,Mikaël Silvestre,82
-76,Frank de Boer,81
-77,Sergei Ignashevich,81
-78,Filippo Inzaghi,81
-79,Míchel Salgado,81
-80,Jamie Carragher,80
-81,Miralem Pjanić,80
-82,Ivan Rakitić,80
-83,Zinédine Zidane,80
-84,Esteban Cambiasso,79
-85,Phillip Cocu,79
-86,Gennaro Gattuso,79
-87,Fernando Torres,79
-88,Sergio Agüero,78
-89,Samuel Eto’o,78
-90,Jordi Alba,77
-91,Sami Khedira,77
-92,Olexandr Shovkovskiy,77
-93,Ole Gunnar Solskjær,77
-94,Alessio Tacchinardi,77
-95,Douglas Costa,76
-96,Michael Essien,76
-97,Pepe Reina,76
-98,Pedro Rodríguez,76
-99,Wesley Sneijder,76
-100,Mark van Bommel,76
-101,Arturo Vidal,76
-102,Patrick Vieira,76
-103,Sylvain Wiltord,76
-104,Deco,75
-105,Edgar Davids,74
-106,Pavel Nedvěd,74
-107,Christian Panucci,74
-108,Michael Reiziger,74
-109,John Arne Riise,74
-110,Rivaldo,73
-111,Giorgio Chiellini,73
-112,Gaël Clichy,73
-113,Steven Gerrard,73
-114,Sidney Govou,73
-115,Claudio Pizarro,73
-116,Koke,73
-117,Ruud van Nistelrooy,73
-118,Isco,72
-119,Dida,72
-120,Rafinha,72
-121,Samuel Kuffour,72
-122,Anthony Réveillère,72
-123,Walter Samuel,72
-124,Leonardo Bonucci,71
-125,Willian,71
-126,William Gallas,71
-127,Roy Keane,71
-128,Patrick Kluivert,71
-129,John O’Shea,71
-130,Roar Strand,71
-131,Michael Carrick,70
-132,Casemiro,(10)
-133,Antoine Griezmann,70
-134,David Silva,70
-135,Kakha Kaladze,70
-136,Tomáš Rosický,70
-137,Mehmet Scholl,70
-138,Yaya Touré,70
-139,Gianluca Zambrotta,70
-140,Neymar,69
-141,Giovane Elber,69
-142,Mesut Özil,69
-143,Andriy Pyatov,69
-144,Nicolas Anelka,68
-145,Álvaro Arbeloa,68
-146,Mats Hummels,68
-147,Blaise Matuidi,68
-148,Fernando Hierro,68
-149,Nicky Butt,67
-150,Martín Demichelis,67
-151,Jens Lehmann,67
-152,Alex Sandro,67
-153,Gianluca Pessotto,67
-154,Lilian Thuram,67
-155,Kolo Touré,67
-156,Marco Verratti,67
-157,Edinson Cavani,66
-158,Alex,66
-159,Emmanuel Eboué,66
-160,Javi Martínez,66
-161,Luis Suárez,66
-162,Thiago Alcántara,65
-163,Marquinhos,(10)
-164,Santiago Cañizares,65
-165,Alessandro Costacurta,65
-166,Hernán Crespo,65
-167,Marc-André ter Stegen,65
-168,Gareth Bale,64
-169,José Bosingwa,64
-170,Diego Godín,64
-171,İlkay Gündoğan,64
-172,Fredrik Ljungberg,64
-173,Hugo Lloris,64
-174,Yaroslav Rakits’kyy,64
-175,Fernando,64
-176,Willy Sagnol,64
-177,Júlio César,64
-178,Wes Brown,63
-179,Lucho González,63
-180,Darijo Srna,63
-181,Éric Abidal,62
-182,Jörg Butt,62
-183,Zé Roberto,62
-184,Predrag Djordjević,62
-185,Emerson,62
-186,Darren Fletcher,62
-187,Mario Götze,62
-188,Tomáš Hübschman,62
-189,Seydou Keita,62
-190,Bixente Lizarazu,62
-191,Jaap Stam,62
-192,César Azpilicueta,(11)
-193,Fabio Cannavaro,61
-194,Grégory Coupet,61
-195,Luisão,61
-196,Daniele De Rossi,61
-197,Didier Deschamps,61
-198,João Moutinho,61
-199,Roy Makaay,61
-200,Antonis Nikopolidis,61
-201,Roque Santa Cruz,61
-202,Santiago Solari,61
-203,Raheem Sterling,(11)
-204,Igor Akinfeev,60
-205,Nani,60
-206,Ricardo Quaresma,60
-207,Dimitar Berbatov,60
-208,Iván Córdoba,60
-209,Jefferson Farfán,60
-210,Erik Hoftun,60
-211,Nwankwo Kanu,60
-212,Mario Mandžukić,60
-213,Álvaro Morata,60
-214,Keylor Navas,(12)
-215,Jesús Navas,60
-216,Maicon,60
-217,Juan Verón,60
-218,Raúl Albiol,59
-219,Julian Draxler,59
-220,Cris,59
-221,Denis Irwin,59
-222,John Obi Mikel,59
-223,Phil Neville,59
-224,Saúl Ñíguez,59
-225,Jan Oblak,59
-226,Juninho Pernambucano,59
-227,Robin van Persie,59
-228,Theo Walcott,59
-229,Axel Witsel,59
-230,Mohamed Salah,(10)
-231,Aleksandr Hleb,58
-232,Samir Nasri,58
-233,Alexis Sánchez,58
-234,David Trezeguet,58
-235,David Albelda,57
-236,Dani Carvajal,57
-237,Joe Cole,57
-238,Gilberto Silva,57
-239,Jari Litmanen,57
-240,James Milner,57
-241,Lucas Moura,57
-242,Maxi Pereira,57
-243,Bacary Sagna,57
-244,Wojciech Szczęsny,57
-245,Francesco Totti,57
-246,Adriano,56
-247,Aleksandar Kolarov,56
-248,Vítor Baía,56
-249,Paolo Montero,56
-250,Nicolás Otamendi,56
-251,Marc Overmars,56
-252,Angelo Peruzzi,56
-253,Aaron Ramsey,56
-254,Javier Saviola,56
-255,Aleksei Berezutski,55
-256,Edin Džeko,55
-257,Cafu,55
-258,Mathieu Flamini,55
-259,Eden Hazard,55
-260,Bernardo Silva,(13)
-261,Bent Skammelsrud,55
-262,Christian Abbiati,54
-263,Fabien Barthez,54
-264,John Carew,54
-265,Ronald de Boer,54
-266,Mahamadou Diarra,54
-267,Serginho,54
-268,Ciro Ferrara,54
-269,Salomon Kalou,54
-270,Per Mertesacker,54
-271,David Luiz,54
-272,Park Ji-Sung,54
-273,Łukasz Piszczek,54
-274,Lionel Scaloni,54
-275,Lauren,53
-276,Rui Costa,53
-277,Jorge Costa,53
-278,Sami Hyypiä,53
-279,Joshua Kimmich,53
-280,Philippe Mexès,53
-281,James Rodríguez,53
+66,Raphaël Varane,86
+67,Jérôme Boateng,85
+68,Ivan Rakitić,85
+69,Wayne Rooney,85
+70,Lúcio,83
+71,Gonzalo Higuaín,83
+72,Florent Malouda,83
+73,Miralem Pjanić,83
+74,Jordi Alba,82
+75,Massimo Ambrosini,82
+76,Thiago Motta,82
+77,Robert Pirès,82
+78,Mikaël Silvestre,82
+79,Frank de Boer,81
+80,Sergei Ignashevich,81
+81,Filippo Inzaghi,81
+82,Míchel Salgado,81
+83,Arturo Vidal,81
+84,Jamie Carragher,80
+85,Zinédine Zidane,80
+86,Sergio Agüero,79
+87,Esteban Cambiasso,79
+88,Phillip Cocu,79
+89,Gennaro Gattuso,79
+90,Koke,79
+91,Fernando Torres,79
+92,Samuel Eto’o,78
+93,Leonardo Bonucci,77
+94,Sami Khedira,77
+95,Olexandr Shovkovskiy,77
+96,Ole Gunnar Solskjær,77
+97,Alessio Tacchinardi,77
+98,Casemiro,76
+99,Douglas Costa,76
+100,Michael Essien,76
+101,Pepe Reina,76
+102,Pedro Rodríguez,76
+103,Wesley Sneijder,76
+104,Mark van Bommel,76
+105,Patrick Vieira,76
+106,Sylvain Wiltord,76
+107,Deco,75
+108,Antoine Griezmann,75
+109,Giorgio Chiellini,74
+110,Edgar Davids,74
+111,Pavel Nedvěd,74
+112,Christian Panucci,74
+113,Michael Reiziger,74
+114,John Arne Riise,74
+115,Rivaldo,73
+116,Gaël Clichy,73
+117,Neymar,73
+118,Steven Gerrard,73
+119,Sidney Govou,73
+120,Mats Hummels,73
+121,Alex Sandro,73
+122,Claudio Pizarro,73
+123,Ruud van Nistelrooy,73
+124,Isco,72
+125,Dida,72
+126,Rafinha,72
+127,Samuel Kuffour,72
+128,Andriy Pyatov,72
+129,Anthony Réveillère,72
+130,Walter Samuel,72
+131,Luis Suárez,72
+132,Marquinhos,71
+133,Willian,71
+134,William Gallas,71
+135,Roy Keane,71
+136,Patrick Kluivert,71
+137,John O’Shea,71
+138,Roar Strand,71
+139,Marc-André ter Stegen,71
+140,Michael Carrick,70
+141,David Silva,70
+142,Kakha Kaladze,70
+143,Yaroslav Rakits’kyy,70
+144,Fernando,70
+145,Tomáš Rosický,70
+146,Mehmet Scholl,70
+147,Yaya Touré,70
+148,Marco Verratti,70
+149,Gianluca Zambrotta,70
+150,Edinson Cavani,69
+151,Giovane Elber,69
+152,İlkay Gündoğan,69
+153,Mesut Özil,69
+154,Thiago Alcántara,68
+155,Nicolas Anelka,68
+156,Álvaro Arbeloa,68
+157,Blaise Matuidi,68
+158,Fernando Hierro,68
+159,César Azpilicueta,67
+160,Nicky Butt,67
+161,Martín Demichelis,67
+162,Jens Lehmann,67
+163,Gianluca Pessotto,67
+164,Raheem Sterling,67
+165,Lilian Thuram,67
+166,Kolo Touré,67
+167,Alex,66
+168,Emmanuel Eboué,66
+169,Javi Martínez,66
+170,Santiago Cañizares,65
+171,Alessandro Costacurta,65
+172,Hernán Crespo,65
+173,Álvaro Morata,65
+174,Jan Oblak,65
+175,Axel Witsel,65
+176,Raúl Albiol,65
+177,Gareth Bale,64
+178,José Bosingwa,64
+179,Mohamed Salah,64
+180,Diego Godín,64
+181,Branislav Ivanović,64
+182,Fredrik Ljungberg,64
+183,Hugo Lloris,64
+184,Jesús Navas,64
+185,Willy Sagnol,64
+186,Júlio César,64
+187,Wes Brown,63
+188,Lucho González,63
+189,Keylor Navas,63
+190,Darijo Srna,63
+191,Éric Abidal,62
+192,Jörg Butt,62
+193,Zé Roberto,62
+194,Predrag Djordjević,62
+195,Emerson,62
+196,Darren Fletcher,62
+197,Mario Götze,62
+198,Tomáš Hübschman,62
+199,Seydou Keita,62
+200,Bixente Lizarazu,62
+201,Saúl Ñíguez,62
+202,Alexis Sánchez,62
+203,Jaap Stam,62
+204,Wojciech Szczęsny,62
+205,Fabio Cannavaro,61
+206,Dani Carvajal,61
+207,Grégory Coupet,61
+208,Luisão,61
+209,Daniele De Rossi,61
+210,Didier Deschamps,61
+211,Julian Draxler,61
+212,Edin Džeko,61
+213,João Moutinho,61
+214,Roy Makaay,61
+215,James Milner,61
+216,Antonis Nikopolidis,61
+217,Nicolás Otamendi,61
+218,Roque Santa Cruz,61
+219,Santiago Solari,61
+220,Igor Akinfeev,60
+221,Nani,60
+222,Ricardo Quaresma,60
+223,Dimitar Berbatov,60
+224,Iván Córdoba,60
+225,Jefferson Farfán,60
+226,Erik Hoftun,60
+227,Nwankwo Kanu,60
+228,Mario Mandžukić,60
+229,Bernardo Silva,60
+230,Maicon Sisenando,60
+231,Juan Verón,60
+232,Cris,59
+233,Denis Irwin,59
+234,John Obi Mikel,59
+235,Phil Neville,59
+236,Pernambucano Juninho,59
+237,Robin van Persie,59
+238,Theo Walcott,59
+239,Thibaut Courtois,58
+240,Aleksandr Hleb,58
+241,Samir Nasri,58
+242,Aaron Ramsey,58
+243,David Trezeguet,58
+244,David Albelda,57
+245,Joe Cole,57
+246,Gilberto Silva,57
+247,Eden Hazard,57
+248,Joshua Kimmich,57
+249,Aleksandar Kolarov,57
+250,Jari Litmanen,57
+251,Lucas Moura,57
+252,Maxi Pereira,57
+253,Bacary Sagna,57
+254,Fabinho,57
+255,Francesco Totti,57
+256,Vítor Baía,56
+257,Adriano,56
+258,Paolo Montero,56
+259,Marc Overmars,56
+260,Angelo Peruzzi,56
+261,Marco Reus,56
+262,Javier Saviola,56
+263,Aleksei Berezutski,55
+264,Danilo,55
+265,Kevin De Bruyne,55
+266,Cafu,55
+267,Mathieu Flamini,55
+268,Paul Pogba,55
+269,Bent Skammelsrud,55
