@@ -1,8 +1,8 @@
 ,Player,Goals
-0,Cristiano Ronaldo,140
+0,Ronaldo,140
 1,Lionel Messi,125
-2,Robert Lewandowski,(13)
-3,Karim Benzema,(12)
+2,Karim Benzema,(15)
+3,Robert Lewandowski,(13)
 4,Raúl González,71
 5,Ruud van Nistelrooy,56
 6,Thomas Müller,52
@@ -37,14 +37,14 @@
 35,Robin van Persie,25
 36,Gonzalo Higuaín,24
 37,Luís Figo,24
-38,Paul Scholes,24
-39,Raheem Sterling,24
-40,Erling Haaland,23
-41,Frank Lampard,23
-42,Jari Litmanen,23
-43,Álvaro Morata,23
-44,Ángel Di María,22
-45,Sadio Mané,22
+38,Sadio Mané,24
+39,Paul Scholes,24
+40,Raheem Sterling,24
+41,Erling Haaland,23
+42,Frank Lampard,23
+43,Jari Litmanen,23
+44,Álvaro Morata,23
+45,Ángel Di María,22
 46,Steven Gerrard,21
 47,Luiz Adriano,21
 48,Mario Mandžukić,21
@@ -54,12 +54,12 @@
 52,Gareth Bale,20
 53,Cesc Fàbregas,20
 54,Roberto Firmino,20
-55,Harry Kane,20
-56,Serhiy Rebrov,20
-57,Marco Simone,20
-58,Fernando Torres,20
-59,Julio Cruz,19
-60,Gabriel Jesus,19
+55,Gabriel Jesus,20
+56,Harry Kane,20
+57,Serhiy Rebrov,20
+58,Marco Simone,20
+59,Fernando Torres,20
+60,Julio Cruz,19
 61,Lisandro,19
 62,Luis Enrique,19
 63,Ole Gunnar Solskjær,19
@@ -73,14 +73,14 @@
 71,Juninho Pernambucano,18
 72,Franck Ribéry,18
 73,Javier Saviola,18
-74,Heung-Min Son,17
-75,Francesco Totti,17
-76,Hulk,17
-77,Michael Ballack,16
-78,David Beckham,16
-79,Roberto Carlos,16
-80,Guti,16
-81,Riyad Mahrez,16
+74,Riyad Mahrez,17
+75,Heung-Min Son,17
+76,Francesco Totti,17
+77,Hulk,17
+78,Michael Ballack,16
+79,David Beckham,16
+80,Roberto Carlos,16
+81,Guti,16
 82,Dries Mertens,16
 83,Gerard Piqué,16
 84,Pedro Rodríguez,16
@@ -124,62 +124,64 @@
 122,Burak Yılmaz,13
 123,Dani Alves,12
 124,Philippe Coutinho,12
-125,Radamel Falcao,12
-126,Serge Gnabry,12
-127,Mario Götze,12
-128,Roy Keane,12
-129,Walter Pandiani,12
-130,Marcus Rashford,12
-131,Mehmet Scholl,12
-132,Bastian Schweinsteiger,12
-133,Paulo Sérgio,12
-134,Giovanni,12
-135,Wesley Sneijder,12
-136,Emmanuel Adebayor,11
-137,Sávio,11
-138,Harald Brattbakk,11
-139,José Callejón,11
-140,Óscar Cardozo,11
-141,Michalis Konstantinou,11
-142,Douglas Costa,11
-143,Diego Costa,11
-144,Kevin De Bruyne,11
-145,Michael Essien,11
-146,Alberto Gilardino,11
-147,Jonas,11
-148,Sidney Govou,11
-149,Sébastien Haller,(11)
-150,Xavi Hernández,11
-151,Andrés Iniesta,11
-152,Lorenzo Insigne,11
-153,Toni Kroos,11
-154,Claudio López,11
-155,Michael Owen,11
-156,Mesut Özil,11
-157,Christian Panucci,11
-158,Miralem Pjanić,11
-159,Tomáš Rosický,11
-160,Clarence Seedorf,11
-161,Maksim Shatskikh,11
-162,Dejan Stanković,11
-163,Roar Strand,11
-164,Alex Teixeira,11
-165,Jon Dahl Tomasson,11
-166,George Weah,11
-167,Dwight Yorke,11
-168,Zlatko Zahovič,11
-169,Ricardo Quaresma,10
-170,Wissam Ben Yedder,10
-171,Jefferson Farfán,10
-172,Luis García,10
-173,İlkay Gündoğan,10
-174,David Silva,10
-175,Joshua Kimmich,10
-176,Bernardo Silva,10
-177,Saúl Ñíguez,10
-178,Ivica Olić,10
-179,Ivan Rakitić,10
-180,Dušan Tadić,10
-181,John Terry,10
-182,Christian Vieri,10
-183,Mirko Vučinić,10
+125,Kevin De Bruyne,12
+126,Luis Díaz,12
+127,Radamel Falcao,12
+128,Serge Gnabry,12
+129,Mario Götze,12
+130,Roy Keane,12
+131,Walter Pandiani,12
+132,Marcus Rashford,12
+133,Mehmet Scholl,12
+134,Bastian Schweinsteiger,12
+135,Paulo Sérgio,12
+136,Giovanni,12
+137,Wesley Sneijder,12
+138,Emmanuel Adebayor,11
+139,Sávio,11
+140,Harald Brattbakk,11
+141,José Callejón,11
+142,Óscar Cardozo,11
+143,Michalis Konstantinou,11
+144,Douglas Costa,11
+145,Diego Costa,11
+146,Michael Essien,11
+147,Alberto Gilardino,11
+148,Jonas,11
+149,Sidney Govou,11
+150,Sébastien Haller,(11)
+151,Xavi Hernández,11
+152,Andrés Iniesta,11
+153,Lorenzo Insigne,11
+154,Toni Kroos,11
+155,Claudio López,11
+156,Bernardo Silva,11
+157,Michael Owen,11
+158,Mesut Özil,11
+159,Christian Panucci,11
+160,Miralem Pjanić,11
+161,Tomáš Rosický,11
+162,Clarence Seedorf,11
+163,Maksim Shatskikh,11
+164,Dejan Stanković,11
+165,Roar Strand,11
+166,Alex Teixeira,11
+167,Jon Dahl Tomasson,11
+168,George Weah,11
+169,Dwight Yorke,11
+170,Zlatko Zahovič,11
+171,Ricardo Quaresma,10
+172,Wissam Ben Yedder,10
+173,Jefferson Farfán,10
+174,Luis García,10
+175,İlkay Gündoğan,10
+176,David Silva,10
+177,Joshua Kimmich,10
+178,Saúl Ñíguez,10
+179,Ivica Olić,10
+180,Ivan Rakitić,10
+181,Rodrygo,10
+182,Dušan Tadić,10
+183,John Terry,10
+184,Christian Vieri,10
+185,Mirko Vučinić,10

@@ -1,24 +1,24 @@
 ,Coach,Club,Appearance
 0,Sir Alex Ferguson,Manchester United FC,190
-1,Arsène Wenger,Arsenal FC,171
-2,Arsène Wenger,AS Monaco FC,7
-3,Carlo Ancelotti,FC Bayern München,12
-4,Carlo Ancelotti,Juventus,10
-5,Carlo Ancelotti,Chelsea FC,18
-6,Carlo Ancelotti,AC Milan,73
-7,Carlo Ancelotti,Real Madrid CF,35
-8,Carlo Ancelotti,Paris Saint-Germain,10
-9,Carlo Ancelotti,Parma FC,6
-10,Carlo Ancelotti,SSC Napoli,12
-11,José Mourinho,Tottenham Hotspur,4
-12,José Mourinho,Manchester United FC,14
-13,José Mourinho,Real Madrid CF,32
-14,José Mourinho,Chelsea FC,57
-15,José Mourinho,FC Internazionale Milano,21
-16,José Mourinho,FC Porto,17
-17,Josep Guardiola,Manchester City FC,60
-18,Josep Guardiola,FC Barcelona,49
-19,Josep Guardiola,FC Bayern München,36
+1,Carlo Ancelotti,FC Bayern München,12
+2,Carlo Ancelotti,Juventus,10
+3,Carlo Ancelotti,Chelsea FC,18
+4,Carlo Ancelotti,AC Milan,73
+5,Carlo Ancelotti,Real Madrid CF,38
+6,Carlo Ancelotti,Paris Saint-Germain,10
+7,Carlo Ancelotti,Parma FC,6
+8,Carlo Ancelotti,SSC Napoli,12
+9,Arsène Wenger,Arsenal FC,171
+10,Arsène Wenger,AS Monaco FC,7
+11,Josep Guardiola,Manchester City FC,62
+12,Josep Guardiola,FC Barcelona,49
+13,Josep Guardiola,FC Bayern München,36
+14,José Mourinho,Tottenham Hotspur,4
+15,José Mourinho,Manchester United FC,14
+16,José Mourinho,Real Madrid CF,32
+17,José Mourinho,Chelsea FC,57
+18,José Mourinho,FC Internazionale Milano,21
+19,José Mourinho,FC Porto,17
 20,Mircea Lucescu,Beşiktaş JK,6
 21,Mircea Lucescu,FC Shakhtar Donetsk,68
 22,Mircea Lucescu,FC Dynamo Kyiv,12
@@ -39,7 +39,7 @@
 37,Massimiliano Allegri,AC Milan,32
 38,Massimiliano Allegri,Juventus,62
 39,Jürgen Klopp,Borussia Dortmund,35
-40,Jürgen Klopp,Liverpool FC,54
+40,Jürgen Klopp,Liverpool FC,57
 41,Diego Simeone,Club Atlético de Madrid,87
 42,Fabio Capello,Real Madrid CF,8
 43,Fabio Capello,Juventus,20
@@ -61,7 +61,7 @@
 59,Roberto Mancini,Galatasaray AŞ,7
 60,Roberto Mancini,FC Internazionale Milano,36
 61,Vicente del Bosque,Real Madrid CF,60
-62,Javier Iruretagoyena Amiano,RC Deportivo La Coruña,58
+62,Javier Iruretagoyena Amiano,Real Club Deportivo La Coruña,58
 63,Luciano Spalletti,AS Roma,30
 64,Luciano Spalletti,FC Internazionale Milano,6
 65,Luciano Spalletti,FC Zenit,21
@@ -74,7 +74,7 @@
 72,Thomas Tuchel,Chelsea FC,17
 73,Thomas Tuchel,Paris Saint-Germain,25
 74,Unai Emery,Valencia CF,13
-75,Unai Emery,Villarreal CF,10
+75,Unai Emery,Villarreal CF,12
 76,Unai Emery,Sevilla FC,6
 77,Unai Emery,Paris Saint-Germain,16
 78,Unai Emery,FC Spartak Moskva,5
