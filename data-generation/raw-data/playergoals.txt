@@ -1,7 +1,7 @@
-Cristiano Ronaldo (Real Madrid CF [105], Juventus [14], Manchester United FC [21]) 140 (6)
+Ronaldo (Real Madrid CF [105], Juventus [14], Manchester United FC [21]) 140 (6)
 Lionel Messi (FC Barcelona [120], Paris Saint-Germain [5]) 125 (5)
+Karim Benzema (Olympique Lyonnais [12], Real Madrid CF [74]) 86 (15)
 Robert Lewandowski (Borussia Dortmund [17], FC Bayern München [69]) 86 (13)
-Karim Benzema (Olympique Lyonnais [12], Real Madrid CF [71]) 83 (12)
 Raúl González (Real Madrid CF [66], FC Schalke 04 [5]) 71
 Ruud van Nistelrooy (PSV Eindhoven [8], Manchester United FC [35], Real Madrid CF [13]) 56
 Thomas Müller (FC Bayern München) 52 (4)
@@ -36,6 +36,7 @@ Edin Džeko (VfL Wolfsburg [4], Manchester City FC [3], AS Roma [15], FC Interna
 Robin van Persie (Arsenal FC [18], Manchester United FC [7]) 25
 Gonzalo Higuaín (Real Madrid CF [8], SSC Napoli [4], Juventus [12]) 24
 Luís Figo (FC Barcelona [7], Real Madrid CF [16], FC Internazionale Milano [1]) 24
+Sadio Mané (Liverpool FC) 24 (5)
 Paul Scholes (Manchester United FC) 24
 Raheem Sterling (Liverpool FC [0], Manchester City FC [24]) 24 (3)
 Erling Haaland (FC Salzburg [8], Borussia Dortmund [15]) 23 (3)
@@ -43,7 +44,6 @@ Frank Lampard (Chelsea FC [23], Manchester City FC [0]) 23
 Jari Litmanen (Liverpool FC [3], AFC Ajax [20]) 23
 Álvaro Morata (Real Madrid CF [4], Chelsea FC [1], Club Atlético de Madrid [3], Juventus [15]) 23 (2)
 Ángel Di María (Real Madrid CF [8], Paris Saint-Germain [14]) 22
-Sadio Mané (Liverpool FC) 22 (3)
 Steven Gerrard (Liverpool FC) 21
 Luiz Adriano (FC Shakhtar Donetsk [20], FC Spartak Moskva [1]) 21
 Mario Mandžukić (FC Bayern München [6], Club Atlético de Madrid [5], Juventus [10]) 21
@@ -53,12 +53,12 @@ Nicolas Anelka (Arsenal FC [1], Real Madrid CF [2], Paris Saint-Germain [5], Che
 Gareth Bale (Tottenham Hotspur [4], Real Madrid CF [16]) 20
 Cesc Fàbregas (Arsenal FC [13], FC Barcelona [3], Chelsea FC [4]) 20
 Roberto Firmino (Liverpool FC) 20 (5)
+Gabriel Jesus (Manchester City FC) 20 (4)
 Harry Kane (Tottenham Hotspur) 20
 Serhiy Rebrov (FC Dynamo Kyiv) 20
 Marco Simone (AC Milan [11], Paris Saint-Germain [3], AS Monaco FC [6]) 20
 Fernando Torres (Liverpool FC [8], Chelsea FC [10], Club Atlético de Madrid [2]) 20
 Julio Cruz (Feyenoord [6], FC Internazionale Milano [13]) 19
-Gabriel Jesus (Manchester City FC) 19 (3)
 Lisandro (FC Porto [13], Olympique Lyonnais [6]) 19
 Luis Enrique (FC Barcelona) 19
 Ole Gunnar Solskjær (Manchester United FC) 19
@@ -72,6 +72,7 @@ Lucho González (Olympique de Marseille [5], FC Porto [13]) 18
 Juninho Pernambucano (Olympique Lyonnais) 18
 Franck Ribéry (FC Bayern München) 18
 Javier Saviola (FC Barcelona [11], AS Monaco FC [4], Málaga CF [1], Olympiacos FC [2]) 18
+Riyad Mahrez (Leicester City FC [4], Manchester City FC [13]) 17 (7)
 Heung-Min Son (Bayer 04 Leverkusen [3], Tottenham Hotspur [14]) 17
 Francesco Totti (AS Roma) 17
 Hulk (FC Porto [7], FC Zenit [10]) 17
@@ -79,7 +80,6 @@ Michael Ballack (FC Bayern München [3], Chelsea FC [4], Bayer 04 Leverkusen [9]
 David Beckham (Manchester United FC [14], Real Madrid CF [2]) 16
 Roberto Carlos (Real Madrid CF) 16
 Guti (Real Madrid CF) 16
-Riyad Mahrez (Leicester City FC [4], Manchester City FC [12]) 16 (6)
 Dries Mertens (SSC Napoli) 16
 Gerard Piqué (Manchester United FC [2], FC Barcelona [14]) 16 (1)
 Pedro Rodríguez (FC Barcelona [15], Chelsea FC [1]) 16
@@ -123,6 +123,8 @@ Carlos Tévez (Manchester United FC [6], Juventus [7]) 13
 Burak Yılmaz (Galatasaray AŞ [10], LOSC Lille [3]) 13 (3)
 Dani Alves (Sevilla FC [2], FC Barcelona [5], Juventus [3], Paris Saint-Germain [2]) 12
 Philippe Coutinho (Liverpool FC [5], FC Bayern München [3], FC Barcelona [4]) 12
+Kevin De Bruyne (Manchester City FC) 12 (2)
+Luis Díaz (FC Porto [4], Liverpool FC [2]) 12 (2)
 Radamel Falcao (FC Porto [4], Chelsea FC [0], AS Monaco FC [8], Galatasaray AŞ [0]) 12
 Serge Gnabry (FC Bayern München) 12 (3)
 Mario Götze (FC Bayern München [9], Borussia Dortmund [3]) 12
@@ -142,7 +144,6 @@ José Callejón (Real Madrid CF [7], SSC Napoli [4]) 11
 Michalis Konstantinou (Panathinaikos FC [9], Olympiacos FC [2]) 11
 Douglas Costa (FC Shakhtar Donetsk [6], Juventus [1], FC Bayern München [4]) 11
 Diego Costa (Chelsea FC [2], Club Atlético de Madrid [9]) 11
-Kevin De Bruyne (Manchester City FC) 11 (1)
 Michael Essien (Olympique Lyonnais [5], Chelsea FC [6]) 11
 Alberto Gilardino (AC Milan [4], ACF Fiorentina [7]) 11
 Jonas (Valencia CF [8], SL Benfica [3]) 11
@@ -153,6 +154,7 @@ Andrés Iniesta (FC Barcelona) 11
 Lorenzo Insigne (SSC Napoli) 11
 Toni Kroos (FC Bayern München [6], Real Madrid CF [5]) 11 (2)
 Claudio López (Valencia CF [5], SS Lazio [6]) 11
+Bernardo Silva (AS Monaco FC [2], Manchester City FC [9]) 11 (3)
 Michael Owen (Liverpool FC [6], Real Madrid CF [1], Manchester United FC [4]) 11
 Mesut Özil (Real Madrid CF [4], Arsenal FC [7]) 11
 Christian Panucci (AC Milan [3], Real Madrid CF [3], AS Roma [5]) 11
@@ -174,10 +176,10 @@ Luis García (Liverpool FC) 10
 İlkay Gündoğan (Borussia Dortmund [1], Manchester City FC [9]) 10
 David Silva (Valencia CF [2], Manchester City FC [8]) 10
 Joshua Kimmich (FC Bayern München) 10
-Bernardo Silva (AS Monaco FC [2], Manchester City FC [8]) 10 (2)
 Saúl Ñíguez (Club Atlético de Madrid [10], Chelsea FC [0]) 10
 Ivica Olić (PFC CSKA Moskva [1], FC Bayern München [9]) 10
 Ivan Rakitić (FC Barcelona [6], Sevilla FC [4]) 10 (2)
+Rodrygo (Real Madrid CF) 10 (5)
 Dušan Tadić (AFC Ajax) 10 (2)
 John Terry (Chelsea FC) 10
 Christian Vieri (Juventus [4], FC Internazionale Milano [6]) 10
