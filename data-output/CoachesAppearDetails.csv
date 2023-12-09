@@ -1,113 +1,244 @@
-,Coach,Club,Appearance
-0,Sir Alex Ferguson,Manchester United FC,190
-1,Carlo Ancelotti,FC Bayern München,12
-2,Carlo Ancelotti,Juventus,10
-3,Carlo Ancelotti,Chelsea FC,18
-4,Carlo Ancelotti,AC Milan,73
-5,Carlo Ancelotti,Real Madrid CF,38
-6,Carlo Ancelotti,Paris Saint-Germain,10
-7,Carlo Ancelotti,Parma FC,6
-8,Carlo Ancelotti,SSC Napoli,12
-9,Arsène Wenger,Arsenal FC,171
-10,Arsène Wenger,AS Monaco FC,7
-11,Josep Guardiola,Manchester City FC,62
-12,Josep Guardiola,FC Barcelona,49
-13,Josep Guardiola,FC Bayern München,36
-14,José Mourinho,Tottenham Hotspur,4
-15,José Mourinho,Manchester United FC,14
-16,José Mourinho,Real Madrid CF,32
-17,José Mourinho,Chelsea FC,57
-18,José Mourinho,FC Internazionale Milano,21
-19,José Mourinho,FC Porto,17
-20,Mircea Lucescu,Beşiktaş JK,6
-21,Mircea Lucescu,FC Shakhtar Donetsk,68
-22,Mircea Lucescu,FC Dynamo Kyiv,12
-23,Mircea Lucescu,FC Internazionale Milano,3
-24,Mircea Lucescu,Galatasaray AŞ,26
-25,Louis van Gaal,FC Bayern München,21
-26,Louis van Gaal,AFC Ajax,32
-27,Louis van Gaal,FC Barcelona,36
-28,Louis van Gaal,Manchester United FC,6
-29,Ottmar Hitzfeld,FC Bayern München,76
-30,Ottmar Hitzfeld,Borussia Dortmund,19
-31,Rafael Benítez,SSC Napoli,6
-32,Rafael Benítez,Valencia CF,14
-33,Rafael Benítez,Real Madrid CF,6
-34,Rafael Benítez,Liverpool FC,62
-35,Rafael Benítez,FC Internazionale Milano,6
-36,Rafael Benítez,Chelsea FC,1
-37,Massimiliano Allegri,AC Milan,32
-38,Massimiliano Allegri,Juventus,62
-39,Jürgen Klopp,Borussia Dortmund,35
-40,Jürgen Klopp,Liverpool FC,57
-41,Diego Simeone,Club Atlético de Madrid,87
-42,Fabio Capello,Real Madrid CF,8
-43,Fabio Capello,Juventus,20
-44,Fabio Capello,AC Milan,26
-45,Fabio Capello,AS Roma,24
-46,Marcello Lippi,Juventus,76
-47,Ronald Koeman,AFC Ajax,26
-48,Ronald Koeman,AZ Alkmaar,5
-49,Ronald Koeman,FC Barcelona,11
-50,Ronald Koeman,SL Benfica,10
-51,Ronald Koeman,Valencia CF,3
-52,Ronald Koeman,PSV Eindhoven,13
-53,Manuel Pellegrini,Málaga CF,10
-54,Manuel Pellegrini,Manchester City FC,26
-55,Manuel Pellegrini,Villarreal CF,22
-56,Manuel Pellegrini,Real Madrid CF,8
-57,Roberto Mancini,SS Lazio,6
-58,Roberto Mancini,Manchester City FC,12
-59,Roberto Mancini,Galatasaray AŞ,7
-60,Roberto Mancini,FC Internazionale Milano,36
-61,Vicente del Bosque,Real Madrid CF,60
-62,Javier Iruretagoyena Amiano,Real Club Deportivo La Coruña,58
-63,Luciano Spalletti,AS Roma,30
-64,Luciano Spalletti,FC Internazionale Milano,6
-65,Luciano Spalletti,FC Zenit,21
-66,Oleg Romantsev,FC Spartak Moskva,56
-67,Fatih Terim,Galatasaray AŞ,53
-68,Zinédine Zidane,Real Madrid CF,53
-69,Héctor Cúper,FC Internazionale Milano,18
-70,Héctor Cúper,Valencia CF,34
-71,Thomas Tuchel,Borussia Dortmund,10
-72,Thomas Tuchel,Chelsea FC,17
-73,Thomas Tuchel,Paris Saint-Germain,25
-74,Unai Emery,Valencia CF,13
-75,Unai Emery,Villarreal CF,12
-76,Unai Emery,Sevilla FC,6
-77,Unai Emery,Paris Saint-Germain,16
-78,Unai Emery,FC Spartak Moskva,5
-79,Jorge Jesus,SL Benfica,39
-80,Jorge Jesus,Sporting Clube de Portugal,10
-81,Nils Arne Eggen,Rosenborg BK,49
-82,Claude Puel,Olympique Lyonnais,28
-83,Claude Puel,LOSC Lille,14
-84,Claude Puel,AS Monaco FC,6
-85,Claudio Ranieri,Juventus,8
-86,Claudio Ranieri,FC Internazionale Milano,7
-87,Claudio Ranieri,AS Roma,7
-88,Claudio Ranieri,Chelsea FC,12
-89,Claudio Ranieri,Valencia CF,6
-90,Claudio Ranieri,Leicester City FC,7
-91,Jupp Heynckes,FC Bayern München,36
-92,Jupp Heynckes,Real Madrid CF,11
-93,Guus Hiddink,PSV Eindhoven,32
-94,Guus Hiddink,Real Madrid CF,6
-95,Guus Hiddink,Chelsea FC,8
-96,Laurent Blanc,FC Girondins de Bordeaux,16
-97,Laurent Blanc,Paris Saint-Germain,30
-98,Didier Deschamps,AS Monaco FC,21
-99,Didier Deschamps,Olympique de Marseille,24
-100,Mauricio Pochettino,Paris Saint-Germain,14
-101,Mauricio Pochettino,Tottenham Hotspur,31
-102,Yuri Semin,FC Lokomotiv Moskva,38
-103,Yuri Semin,FC Dynamo Kyiv,7
-104,Ernesto Valverde,Valencia CF,2
-105,Ernesto Valverde,Olympiacos FC,6
-106,Ernesto Valverde,Athletic Club,6
-107,Ernesto Valverde,FC Barcelona,28
-108,Felix Magath,VfB Stuttgart,8
-109,Felix Magath,FC Schalke 04,8
-110,Felix Magath,FC Bayern München,24
-111,Thomas Schaaf,SV Werder Bremen,40
+,Coach,Club,Appearance,0
+0,,,,Carlo Ancelotti
+1,,,,FC Bayern München
+2,,,,12
+3,,,,Carlo Ancelotti
+4,,,,Chelsea FC
+5,,,,18
+6,,,,Carlo Ancelotti
+7,,,,AC Milan
+8,,,,73
+9,,,,Carlo Ancelotti
+10,,,,Real Madrid CF
+11,,,,50
+12,,,,Carlo Ancelotti
+13,,,,SSC Napoli
+14,,,,12
+15,,,,Carlo Ancelotti
+16,,,,Paris Saint-Germain
+17,,,,10
+18,,,,Carlo Ancelotti
+19,,,,Parma FC
+20,,,,6
+21,,,,Carlo Ancelotti
+22,,,,Juventus
+23,,,,10
+24,,,,Sir Alex Ferguson
+25,,,,Manchester United FC
+26,,,,190
+27,,,,Arsène Wenger
+28,,,,Arsenal FC
+29,,,,171
+30,,,,Arsène Wenger
+31,,,,AS Monaco FC
+32,,,,7
+33,,,,Josep Guardiola
+34,,,,Manchester City FC
+35,,,,74
+36,,,,Josep Guardiola
+37,,,,FC Barcelona
+38,,,,49
+39,,,,Josep Guardiola
+40,,,,FC Bayern München
+41,,,,36
+42,,,,José Mourinho
+43,,,,Real Madrid CF
+44,,,,32
+45,,,,José Mourinho
+46,,,,Tottenham Hotspur
+47,,,,4
+48,,,,José Mourinho
+49,,,,Manchester United FC
+50,,,,14
+51,,,,José Mourinho
+52,,,,FC Porto
+53,,,,17
+54,,,,José Mourinho
+55,,,,FC Internazionale Milano
+56,,,,21
+57,,,,José Mourinho
+58,,,,Chelsea FC
+59,,,,57
+60,,,,Mircea Lucescu
+61,,,,Beşiktaş JK
+62,,,,6
+63,,,,Mircea Lucescu
+64,,,,FC Shakhtar Donetsk
+65,,,,68
+66,,,,Mircea Lucescu
+67,,,,Galatasaray AŞ
+68,,,,26
+69,,,,Mircea Lucescu
+70,,,,FC Dynamo Kyiv
+71,,,,12
+72,,,,Mircea Lucescu
+73,,,,FC Internazionale Milano
+74,,,,3
+75,,,,Jürgen Klopp
+76,,,,Liverpool FC
+77,,,,65
+78,,,,Jürgen Klopp
+79,,,,Borussia Dortmund
+80,,,,35
+81,,,,Massimiliano Allegri
+82,,,,AC Milan
+83,,,,32
+84,,,,Massimiliano Allegri
+85,,,,Juventus
+86,,,,68
+87,,,,Louis van Gaal
+88,,,,FC Barcelona
+89,,,,36
+90,,,,Louis van Gaal
+91,,,,FC Bayern München
+92,,,,21
+93,,,,Louis van Gaal
+94,,,,AFC Ajax
+95,,,,32
+96,,,,Louis van Gaal
+97,,,,Manchester United FC
+98,,,,6
+99,,,,Ottmar Hitzfeld
+100,,,,FC Bayern München
+101,,,,76
+102,,,,Ottmar Hitzfeld
+103,,,,Borussia Dortmund
+104,,,,19
+105,,,,Rafael Benítez
+106,,,,SSC Napoli
+107,,,,6
+108,,,,Rafael Benítez
+109,,,,Valencia CF
+110,,,,14
+111,,,,Rafael Benítez
+112,,,,Real Madrid CF
+113,,,,6
+114,,,,Rafael Benítez
+115,,,,Liverpool FC
+116,,,,62
+117,,,,Rafael Benítez
+118,,,,FC Internazionale Milano
+119,,,,6
+120,,,,Rafael Benítez
+121,,,,Chelsea FC
+122,,,,1
+123,,,,Diego Simeone
+124,,,,Club Atlético de Madrid
+125,,,,93
+126,,,,Fabio Capello
+127,,,,AC Milan
+128,,,,26
+129,,,,Fabio Capello
+130,,,,AS Roma
+131,,,,24
+132,,,,Fabio Capello
+133,,,,Real Madrid CF
+134,,,,8
+135,,,,Fabio Capello
+136,,,,Juventus
+137,,,,20
+138,,,,Marcello Lippi
+139,,,,Juventus
+140,,,,76
+141,,,,Ronald Koeman
+142,,,,AFC Ajax
+143,,,,26
+144,,,,Ronald Koeman
+145,,,,AZ Alkmaar
+146,,,,5
+147,,,,Ronald Koeman
+148,,,,FC Barcelona
+149,,,,11
+150,,,,Ronald Koeman
+151,,,,Valencia CF
+152,,,,3
+153,,,,Ronald Koeman
+154,,,,SL Benfica
+155,,,,10
+156,,,,Ronald Koeman
+157,,,,PSV Eindhoven
+158,,,,13
+159,,,,Luciano Spalletti
+160,,,,AS Roma
+161,,,,30
+162,,,,Luciano Spalletti
+163,,,,FC Internazionale Milano
+164,,,,6
+165,,,,Luciano Spalletti
+166,,,,FC Zenit
+167,,,,21
+168,,,,Luciano Spalletti
+169,,,,SSC Napoli
+170,,,,10
+171,,,,Manuel Pellegrini
+172,,,,Manchester City FC
+173,,,,26
+174,,,,Manuel Pellegrini
+175,,,,Málaga CF
+176,,,,10
+177,,,,Manuel Pellegrini
+178,,,,Villarreal CF
+179,,,,22
+180,,,,Manuel Pellegrini
+181,,,,Real Madrid CF
+182,,,,8
+183,,,,Roberto Mancini
+184,,,,FC Internazionale Milano
+185,,,,36
+186,,,,Roberto Mancini
+187,,,,Galatasaray AŞ
+188,,,,7
+189,,,,Roberto Mancini
+190,,,,SS Lazio
+191,,,,6
+192,,,,Roberto Mancini
+193,,,,Manchester City FC
+194,,,,12
+195,,,,Vicente del Bosque
+196,,,,Real Madrid CF
+197,,,,60
+198,,,,Javier Iruretagoyena Amiano
+199,,,,Real Club Deportivo La Coruña
+200,,,,58
+201,,,,Oleg Romantsev
+202,,,,FC Spartak Moskva
+203,,,,56
+204,,,,Thomas Tuchel
+205,,,,Borussia Dortmund
+206,,,,10
+207,,,,Thomas Tuchel
+208,,,,Chelsea FC
+209,,,,18
+210,,,,Thomas Tuchel
+211,,,,FC Bayern München
+212,,,,2
+213,,,,Thomas Tuchel
+214,,,,Paris Saint-Germain
+215,,,,25
+216,,,,Fatih Terim
+217,,,,Galatasaray AŞ
+218,,,,53
+219,,,,Zinédine Zidane
+220,,,,Real Madrid CF
+221,,,,53
+222,,,,Héctor Cúper
+223,,,,FC Internazionale Milano
+224,,,,18
+225,,,,Héctor Cúper
+226,,,,Valencia CF
+227,,,,34
+228,,,,Unai Emery
+229,,,,Valencia CF
+230,,,,13
+231,,,,Unai Emery
+232,,,,Villarreal CF
+233,,,,12
+234,,,,Unai Emery
+235,,,,Sevilla FC
+236,,,,6
+237,,,,Unai Emery
+238,,,,Paris Saint-Germain
+239,,,,16
+240,,,,Unai Emery
+241,,,,FC Spartak Moskva
+242,,,,5
