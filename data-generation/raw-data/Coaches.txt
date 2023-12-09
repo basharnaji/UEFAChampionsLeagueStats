@@ -1,39 +1,26 @@
+Carlo Ancelotti (FC Bayern München [12], Chelsea FC [18], AC Milan [73], Real Madrid CF [50], SSC Napoli [12], Paris Saint-Germain [10], Parma FC [6], Juventus [10]) 191
 Sir Alex Ferguson (Manchester United FC) 190
-Carlo Ancelotti (FC Bayern München [12], Juventus [10], Chelsea FC [18], AC Milan [73], Real Madrid CF [38], Paris Saint-Germain [10], Parma FC [6], SSC Napoli [12]) 179
 Arsène Wenger (Arsenal FC [171], AS Monaco FC [7]) 178
-Josep Guardiola (Manchester City FC [62], FC Barcelona [49], FC Bayern München [36]) 147
-José Mourinho (Tottenham Hotspur [4], Manchester United FC [14], Real Madrid CF [32], Chelsea FC [57], FC Internazionale Milano [21], FC Porto [17]) 145
-Mircea Lucescu (Beşiktaş JK [6], FC Shakhtar Donetsk [68], FC Dynamo Kyiv [12], FC Internazionale Milano [3], Galatasaray AŞ [26]) 115
-Louis van Gaal (FC Bayern München [21], AFC Ajax [32], FC Barcelona [36], Manchester United FC [6]) 95
+Josep Guardiola (Manchester City FC [74], FC Barcelona [49], FC Bayern München [36]) 159
+José Mourinho (Real Madrid CF [32], Tottenham Hotspur [4], Manchester United FC [14], FC Porto [17], FC Internazionale Milano [21], Chelsea FC [57]) 145
+Mircea Lucescu (Beşiktaş JK [6], FC Shakhtar Donetsk [68], Galatasaray AŞ [26], FC Dynamo Kyiv [12], FC Internazionale Milano [3]) 115
+Jürgen Klopp (Liverpool FC [65], Borussia Dortmund [35]) 100
+Massimiliano Allegri (AC Milan [32], Juventus [68]) 100
+Louis van Gaal (FC Barcelona [36], FC Bayern München [21], AFC Ajax [32], Manchester United FC [6]) 95
 Ottmar Hitzfeld (FC Bayern München [76], Borussia Dortmund [19]) 95
 Rafael Benítez (SSC Napoli [6], Valencia CF [14], Real Madrid CF [6], Liverpool FC [62], FC Internazionale Milano [6], Chelsea FC [1]) 95
-Massimiliano Allegri (AC Milan [32], Juventus [62]) 94
-Jürgen Klopp (Borussia Dortmund [35], Liverpool FC [57]) 92
-Diego Simeone (Club Atlético de Madrid) 87
-Fabio Capello (Real Madrid CF [8], Juventus [20], AC Milan [26], AS Roma [24]) 78
+Diego Simeone (Club Atlético de Madrid) 93
+Fabio Capello (AC Milan [26], AS Roma [24], Real Madrid CF [8], Juventus [20]) 78
 Marcello Lippi (Juventus) 76
-Ronald Koeman (AFC Ajax [26], AZ Alkmaar [5], FC Barcelona [11], SL Benfica [10], Valencia CF [3], PSV Eindhoven [13]) 68
-Manuel Pellegrini (Málaga CF [10], Manchester City FC [26], Villarreal CF [22], Real Madrid CF [8]) 66
-Roberto Mancini (SS Lazio [6], Manchester City FC [12], Galatasaray AŞ [7], FC Internazionale Milano [36]) 61
+Ronald Koeman (AFC Ajax [26], AZ Alkmaar [5], FC Barcelona [11], Valencia CF [3], SL Benfica [10], PSV Eindhoven [13]) 68
+Luciano Spalletti (AS Roma [30], FC Internazionale Milano [6], FC Zenit [21], SSC Napoli [10]) 67
+Manuel Pellegrini (Manchester City FC [26], Málaga CF [10], Villarreal CF [22], Real Madrid CF [8]) 66
+Roberto Mancini (FC Internazionale Milano [36], Galatasaray AŞ [7], SS Lazio [6], Manchester City FC [12]) 61
 Vicente del Bosque (Real Madrid CF) 60
 Javier Iruretagoyena Amiano (Real Club Deportivo La Coruña) 58
-Luciano Spalletti (AS Roma [30], FC Internazionale Milano [6], FC Zenit [21]) 57
 Oleg Romantsev (FC Spartak Moskva) 56
+Thomas Tuchel (Borussia Dortmund [10], Chelsea FC [18], FC Bayern München [2], Paris Saint-Germain [25]) 55
 Fatih Terim (Galatasaray AŞ) 53
 Zinédine Zidane (Real Madrid CF) 53
 Héctor Cúper (FC Internazionale Milano [18], Valencia CF [34]) 52
-Thomas Tuchel (Borussia Dortmund [10], Chelsea FC [17], Paris Saint-Germain [25]) 52
 Unai Emery (Valencia CF [13], Villarreal CF [12], Sevilla FC [6], Paris Saint-Germain [16], FC Spartak Moskva [5]) 52
-Jorge Jesus (SL Benfica [39], Sporting Clube de Portugal [10]) 49
-Nils Arne Eggen (Rosenborg BK) 49
-Claude Puel (Olympique Lyonnais [28], LOSC Lille [14], AS Monaco FC [6]) 48
-Claudio Ranieri (Juventus [8], FC Internazionale Milano [7], AS Roma [7], Chelsea FC [12], Valencia CF [6], Leicester City FC [7]) 47
-Jupp Heynckes (FC Bayern München [36], Real Madrid CF [11]) 47
-Guus Hiddink (PSV Eindhoven [32], Real Madrid CF [6], Chelsea FC [8]) 46
-Laurent Blanc (FC Girondins de Bordeaux [16], Paris Saint-Germain [30]) 46
-Didier Deschamps (AS Monaco FC [21], Olympique de Marseille [24]) 45
-Mauricio Pochettino (Paris Saint-Germain [14], Tottenham Hotspur [31]) 45
-Yuri Semin (FC Lokomotiv Moskva [38], FC Dynamo Kyiv [7]) 45
-Ernesto Valverde (Valencia CF [2], Olympiacos FC [6], Athletic Club [6], FC Barcelona [28]) 42
-Felix Magath (VfB Stuttgart [8], FC Schalke 04 [8], FC Bayern München [24]) 40
-Thomas Schaaf (SV Werder Bremen) 40
