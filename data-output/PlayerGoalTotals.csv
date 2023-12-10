@@ -1,219 +1,110 @@
-,Player,Goals,0
-0,,,Cristiano Ronaldo
-1,,,140
-2,,,Lionel Messi
-3,,,129
-4,,,Robert Lewandowski
-5,,,91
-6,,,Karim Benzema
-7,,,90
-8,,,Raúl González
-9,,,71
-10,,,Ruud van Nistelrooy
-11,,,56
-12,,,Thomas Müller
-13,,,53
-14,,,Thierry Henry
-15,,,50
-16,,,Zlatan Ibrahimović
-17,,,48
-18,,,Andriy Shevchenko
-19,,,48
-20,,,Filippo Inzaghi
-21,,,46
-22,,,Didier Drogba
-23,,,44
-24,,,Mohamed Salah
-25,,,44
-26,,,Neymar
-27,,,43
-28,,,Alessandro Del Piero
-29,,,42
-30,,,Sergio Agüero
-31,,,41
-32,,,Kylian Mbappé
-33,,,40
-34,,,Edinson Cavani
-35,,,35
-36,,,Erling Haaland
-37,,,(12)
-38,,,Fernando Morientes
-39,,,33
-40,,,Arjen Robben
-41,,,31
-42,,,Samuel Eto’o
-43,,,30
-44,,,Antoine Griezmann
-45,,,30
-46,,,Kaká
-47,,,30
-48,,,Wayne Rooney
-49,,,30
-50,,,Edin Džeko
-51,,,29
-52,,,Patrick Kluivert
-53,,,29
-54,,,Roy Makaay
-55,,,29
-56,,,David Trezeguet
-57,,,29
-58,,,Ryan Giggs
-59,,,28
-60,,,Rivaldo
-61,,,27
-62,,,Sadio Mané
-63,,,27
-64,,,Lisandro
-65,,,19
-66,,,Luis Enrique
-67,,,19
-68,,,Ole Gunnar Solskjær
-69,,,19
-70,,,Heung-Min Son
-71,,,19
-72,,,Willian
-73,,,18
-74,,,John Carew
-75,,,18
-76,,,Andy Cole
-77,,,18
-78,,,Ronaldinho
-79,,,18
-80,,,Paulo Dybala
-81,,,18
-82,,,Lucho González
-83,,,18
-84,,,Romelu Lukaku
-85,,,18
-86,,,Juninho Pernambucano
-87,,,18
-88,,,Franck Ribéry
-89,,,18
-90,,,Javier Saviola
-91,,,18
-92,,,Pierre-Emerick Aubameyang
-93,,,17
-94,,,Francesco Totti
-95,,,17
-96,,,Hulk
-97,,,17
-98,,,Timo Werner
-99,,,17
-100,,,Michael Ballack
-101,,,16
-102,,,David Beckham
-103,,,16
-104,,,Roberto Carlos
-105,,,16
-106,,,Guti
-107,,,16
-108,,,Dries Mertens
-109,,,16
-110,,,Gerard Piqué
-111,,,16
-112,,,Pedro Rodríguez
-113,,,16
-114,,,Roberto Soldado
-115,,,16
-116,,,Vinícius Júnior
-117,,,15
-118,,,Seydou Doumbia
-119,,,15
-120,,,Iván Helguera
-121,,,15
-122,,,Simone Inzaghi
-123,,,15
-124,,,Pavel Nedvěd
-125,,,15
-126,,,Sergio Ramos
-127,,,15
-128,,,Alexis Sánchez
-129,,,15
-130,,,Rodrygo
-131,,,15
-132,,,Diego Tristán
-133,,,15
-134,,,Arturo Vidal
-135,,,15
-136,,,Theo Walcott
-137,,,15
-138,,,Sylvain Wiltord
-139,,,15
-140,,,Vincent Aboubakar
-141,,,14
-142,,,Kingsley Coman
-143,,,14
-144,,,Kevin De Bruyne
-145,,,14
-146,,,Serge Gnabry
-147,,,14
-148,,,Javier Hernández
-149,,,14
-150,,,Klaas Jan Huntelaar
-151,,,14
-152,,,Miroslav Klose
-153,,,14
-154,,,Adriano
-155,,,14
-156,,,Kostas Mitroglou
-157,,,14
-158,,,Bernardo Silva
-159,,,14
-160,,,Ronaldo
-161,,,14
-162,,,Robert Pirès
-163,,,14
-164,,,David Villa
-165,,,14
-166,,,Zinédine Zidane
-167,,,14
-168,,,Dimitar Berbatov
-169,,,13
-170,,,Peter Crouch
-171,,,13
-172,,,Sonny Anderson
-173,,,13
-174,,,Deco
-175,,,13
-176,,,Carsten Jancker
-177,,,13
-178,,,Jan Koller
-179,,,13
-180,,,Fredrik Ljungberg
-181,,,13
-182,,,Jackson Martínez
-183,,,13
-184,,,Lukas Podolski
-185,,,13
-186,,,Hakan Şükür
-187,,,13
-188,,,Carlos Tévez
-189,,,13
-190,,,Burak Yılmaz
-191,,,13
-192,,,Dani Alves
-193,,,12
-194,,,Marco Asensio
-195,,,12
-196,,,Philippe Coutinho
-197,,,12
-198,,,Radamel Falcao
-199,,,12
-200,,,Mario Götze
-201,,,12
-202,,,Roy Keane
-203,,,12
-204,,,Walter Pandiani
-205,,,12
-206,,,Marcus Rashford
-207,,,12
-208,,,Mehmet Scholl
-209,,,12
-210,,,Bastian Schweinsteiger
-211,,,12
-212,,,Paulo Sérgio
-213,,,12
-214,,,Giovanni
-215,,,12
-216,,,Wesley Sneijder
-217,,,12
+,Player,Goals
+0,Cristiano Ronaldo,140
+1,Lionel Messi,129
+2,Robert Lewandowski,91
+3,Karim Benzema,90
+4,Raúl González,71
+5,Ruud van Nistelrooy,56
+6,Thomas Müller,53
+7,Thierry Henry,50
+8,Zlatan Ibrahimović,48
+9,Andriy Shevchenko,48
+10,Filippo Inzaghi,46
+11,Didier Drogba,44
+12,Mohamed Salah,44
+13,Neymar,43
+14,Alessandro Del Piero,42
+15,Sergio Agüero,41
+16,Kylian Mbappé,40
+17,Edinson Cavani,35
+18,Erling Haaland,35
+19,Fernando Morientes,33
+20,Arjen Robben,31
+21,Samuel Eto’o,30
+22,Antoine Griezmann,30
+23,Kaká,30
+24,Wayne Rooney,30
+25,Edin Džeko,29
+26,Patrick Kluivert,29
+27,Roy Makaay,29
+28,David Trezeguet,29
+29,Ryan Giggs,28
+30,Rivaldo,27
+31,Sadio Mané,27
+32,Lisandro,19
+33,Luis Enrique,19
+34,Ole Gunnar Solskjær,19
+35,Heung-Min Son,19
+36,Willian,18
+37,John Carew,18
+38,Andy Cole,18
+39,Ronaldinho,18
+40,Paulo Dybala,18
+41,Lucho González,18
+42,Romelu Lukaku,18
+43,Juninho Pernambucano,18
+44,Franck Ribéry,18
+45,Javier Saviola,18
+46,Pierre-Emerick Aubameyang,17
+47,Francesco Totti,17
+48,Hulk,17
+49,Timo Werner,17
+50,Michael Ballack,16
+51,David Beckham,16
+52,Roberto Carlos,16
+53,Guti,16
+54,Dries Mertens,16
+55,Gerard Piqué,16
+56,Pedro Rodríguez,16
+57,Roberto Soldado,16
+58,Vinícius Júnior,15
+59,Seydou Doumbia,15
+60,Iván Helguera,15
+61,Simone Inzaghi,15
+62,Pavel Nedvěd,15
+63,Sergio Ramos,15
+64,Alexis Sánchez,15
+65,Rodrygo,15
+66,Diego Tristán,15
+67,Arturo Vidal,15
+68,Theo Walcott,15
+69,Sylvain Wiltord,15
+70,Vincent Aboubakar,14
+71,Kingsley Coman,14
+72,Kevin De Bruyne,14
+73,Serge Gnabry,14
+74,Javier Hernández,14
+75,Klaas Jan Huntelaar,14
+76,Miroslav Klose,14
+77,Adriano,14
+78,Kostas Mitroglou,14
+79,Bernardo Silva,14
+80,Ronaldo,14
+81,Robert Pirès,14
+82,David Villa,14
+83,Zinédine Zidane,14
+84,Dimitar Berbatov,13
+85,Peter Crouch,13
+86,Sonny Anderson,13
+87,Deco,13
+88,Carsten Jancker,13
+89,Jan Koller,13
+90,Fredrik Ljungberg,13
+91,Jackson Martínez,13
+92,Lukas Podolski,13
+93,Hakan Şükür,13
+94,Carlos Tévez,13
+95,Burak Yılmaz,13
+96,Dani Alves,12
+97,Marco Asensio,12
+98,Philippe Coutinho,12
+99,Radamel Falcao,12
+100,Mario Götze,12
+101,Roy Keane,12
+102,Walter Pandiani,12
+103,Marcus Rashford,12
+104,Mehmet Scholl,12
+105,Bastian Schweinsteiger,12
+106,Paulo Sérgio,12
+107,Giovanni,12
+108,Wesley Sneijder,12
